@@ -1,0 +1,39 @@
+body,
+html {
+    margin: 5px 5px;
+}
+.logo {
+    margin: 5px 5px;
+}
+a {
+    float: center;
+    font-family: 'Times New Roman', Times, serif;
+	font-size: 18px;
+    }
+button {
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+	font-size: 18px;
+    float: right;
+    }
+button:hover {
+        cursor: pointer;
+    }
+.nav {
+    margin: 50px 80px 50px 80px;
+    width: 90%;
+    height: 50px;
+    border: 1px solid black;
+    }
+nav ul {
+    margin-right: 15pt;
+    float: left;
+    }    
+nav ul li {
+    padding: 5px 5px 5px 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    display: inline;
+    }
